@@ -1,0 +1,1 @@
+# non-empty-wiki-restrict-to-collabs
